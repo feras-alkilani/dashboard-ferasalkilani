@@ -1,2 +1,1 @@
-# dashboard-ferasalkilani
-I used Redux in this copy
+This website is used for management by displaying data tables and statistics in various visual formats. It employs HTML, CSS, and JS including React to provide an intuitive and dynamic user interface.
